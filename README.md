@@ -28,10 +28,10 @@ The project is organized as follows:
 
 ## Technologies
 This project utilizes the following technologies:
-- Python
-- Flask
-- TensorFlow
-- React
+- Cluade code
+- Google AntiGravity
+- OPENAI SDKs
+  
 
 ## Learning Outcomes
 By the end of your journey through this project, you will:
@@ -49,5 +49,5 @@ Contributions are welcome! To contribute:
 
 ## Contact
 For questions or feedback, please reach out:
-- **Email**: amnasgpt01@example.com
+- **Email**: amnasgpt01@gmail.com
 - **GitHub**: [AmnasGPT01](https://github.com/AmnasGPT01)

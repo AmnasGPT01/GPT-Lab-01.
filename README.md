@@ -1,12 +1,12 @@
 # Hi, I'm Amna 👋
 
-> *I'm a complete beginner in tech — and I'm okay saying that out loud.*
+> *I'm a complete beginner in tech and I'm okay saying that out loud.*
 
 Not long ago, the world of code, AI, and digital systems felt like it belonged to someone else. Someone with a computer science degree. Someone who'd been doing this for years. **Not me.**
 
-But something shifted when I discovered what's actually being built right now — not just software, not just apps — but **AI agents**. Systems that think, plan, and act. Digital workers that don't sleep, don't take breaks, and can handle tasks that used to require entire teams.
+But something shifted when I discovered what's actually being built right now not just software, not just apps but **AI agents**. Systems that think, plan, and act. Digital workers that don't sleep, don't take breaks, and can handle tasks that used to require entire teams.
 
-They're called **Digital FTEs** — Full-Time Employees, but artificial. And they are the future of how work gets done.
+They're called **Digital FTEs** Full-Time Employees, but artificial. And they are the future of how work gets done.
 
 **That future pulled me in.**
 
@@ -14,21 +14,20 @@ They're called **Digital FTEs** — Full-Time Employees, but artificial. And the
 
 ## 📖 What This Repo Is
 
-This is my **learning journal** — a public record of my journey from zero to building real AI systems.
+This is my **learning journal** a public record of my journey from zero to building real AI systems.
 
 Every folder, every file, every commit is a step I've taken. Some steps will be messy. Some will be wrong. But they'll all be **honest**.
 
-I believe in learning in public — because if I'm figuring this out, maybe someone else is too, and maybe this repo helps them feel less alone in that.
-
+I believe in learning in public because if I'm figuring this out, maybe someone else is too, and maybe this repo helps them feel less alone in that.
 ---
 
 ## 🎯 My Mission
 
 **Starting from scratch → Building Digital FTEs**
 
-A Digital FTE is an AI agent that works like a full-time employee — handling tasks, making decisions, using tools — autonomously, around the clock.
+A Digital FTE is an AI agent that works like a full-time employee handling tasks, making decisions, using tools autonomously, around the clock.
 
-This isn't science fiction. This is what's being built right now, and I want to be someone who **builds them** — not just uses them.
+This isn't science fiction. This is what's being built right now, and I want to be someone who **builds them**  not just uses them.
 
 ---
 
@@ -43,7 +42,7 @@ Launched by the President of Pakistan to promote education, research, and busine
 - 📡 IoT
 - ☁️ Cloud Native Computing
 
-Led by **Sir Zia Khan** — Volunteer COO of PIAIC, CEO of Panacloud, and a central force in building Pakistan's future-ready tech workforce.
+Led by **Sir Zia Khan** Volunteer COO of PIAIC, CEO of Panacloud, and a central force in building Pakistan's future-ready tech workforce.
 
 **What makes this different?** It doesn't just teach you to *use* AI tools. The mission is to train millions of **agentic AI developers** across Pakistan and abroad, and launch startups at scale.
 
@@ -65,7 +64,7 @@ We're learning to build systems that **plan, coordinate tools, and take actions*
 
 ## 🌱 Why It Matters to Me
 
-> *"Nearly six in ten workers will require retraining before 2030, with 22% of jobs globally changing due to technological advancements."* — World Economic Forum
+> *"Nearly six in ten workers will require retraining before 2030, with 22% of jobs globally changing due to technological advancements." World Economic Forum
 
 I don't want to be on the wrong side of that shift. **And I don't think you should be either.**
 

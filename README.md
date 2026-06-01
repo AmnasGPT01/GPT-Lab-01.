@@ -2,7 +2,7 @@
 
 ## Experimental Repository for Agentic AI Development
 
-This is a sandbox environment for exploring and prototyping **agentic AI systems** designed to revolutionize finance, audit, and ESG reporting. I'm a Chartered Accountancy student simultaneously pursuing Agentic AI Engineering under **Ziah Khan's University Framework**, with a mission to transform traditional ERP systems, audit processes, and ESG/finance workflows through intelligent automation.
+This is a sandbox environment for exploring and prototyping **agentic AI systems** designed to revolutionize finance, audit, and ESG reporting. I'm a Chartered Accountancy student simultaneously pursuing Agentic AI Engineering under **Ziah Khan's Panaversity Framework**, with a mission to transform traditional ERP systems, audit processes, and ESG/finance workflows through intelligent automation.
 
 ### 🎯 Vision
 

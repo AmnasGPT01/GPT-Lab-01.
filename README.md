@@ -1,55 +1,51 @@
-# Hi, I'm Amna 👋
+# GPT-Lab-01
 
-> *I'm a complete beginner in tech and I'm okay saying that out loud.*
+## Experimental Repository for Agentic AI Development
 
-Not long ago, the world of code, AI, and digital systems felt like it belonged to someone else. Someone with a computer science degree. Someone who'd been doing this for years. **Not me.**
+This is a sandbox environment for exploring and prototyping **agentic AI systems** designed to revolutionize finance, audit, and ESG reporting. I'm a Chartered Accountancy student simultaneously pursuing Agentic AI Engineering under **Ziah Khan's University Framework**, with a mission to transform traditional ERP systems, audit processes, and ESG/finance workflows through intelligent automation.
 
-But something shifted when I discovered what's actually being built right now not just software, not just apps but **AI agents**. Systems that think, plan, and act. Digital workers that don't sleep, don't take breaks, and can handle tasks that used to require entire teams.
+### 🎯 Vision
 
-They're called **Digital FTEs** Full-Time Employees, but artificial. And they are the future of how work gets done.
+Transform the finance and audit landscape by:
+- **ERP Automation**: Building intelligent agents that streamline enterprise resource planning through autonomous decision-making
+- **Audit Intelligence**: Developing AI-powered audit agents capable of anomaly detection, continuous monitoring, and intelligent compliance verification
+- **ESG & Finance Integration**: Creating agentic systems that bridge ESG reporting with financial data, automating impact calculations and stakeholder communication
+- **Smart Finance Workflows**: Leveraging autonomous agents for forecasting, risk analysis, and real-time financial intelligence
 
-**That future pulled me in.**
+### 🔬 What's Inside
 
----
+- Experimentation with agentic AI architectures for finance/audit domains
+- Prototype implementations of autonomous agents for ERP and audit workflows
+- Tools and utilities for integrating AI into traditional accounting systems
+- Research-driven explorations at the intersection of AI and accountancy
 
-## 📖 What This Repo Is
+### 🚀 Getting Started
 
-This is my **learning journal** a public record of my journey from zero to building real AI systems.
+Clone the repo and explore:
 
-Every folder, every file, every commit is a step I've taken. Some steps will be messy. Some will be wrong. But they'll all be **honest**.
+```bash
+git clone https://github.com/AmnasGPT01/GPT-Lab-01.git
+cd GPT-Lab-01
+```
 
-I believe in learning in public because if I'm figuring this out, maybe someone else is too, and maybe this repo helps them feel less alone in that.
----
+### 📚 Focus Areas
 
-## 🎯 My Mission
+- **Studying Chartered Accountancy & Agentic AI Engineering** under Ziah Khan's framework
+- **ERP Systems**: How AI agents can enhance operational efficiency
+- **Audit Automation**: Intelligent anomaly detection and compliance monitoring
+- **ESG Reporting**: AI-driven sustainability and financial impact analysis
 
-**Starting from scratch → Building Digital FTEs**
+### 📝 Notes
 
-A Digital FTE is an AI agent that works like a full-time employee handling tasks, making decisions, using tools autonomously, around the clock.
+This is an **experimental** repository where ideas meet practice. Expect evolution, iteration, and continuous learning as I bridge the gap between traditional finance and cutting-edge AI.
 
-This isn't science fiction. This is what's being built right now, and I want to be someone who **builds them**  not just uses them.
+### 🔧 Contributing
 
----
-
-## 🎓 Where I'm Learning
-
-### **Panaversity / PIAIC**
-*Presidential Initiative for Artificial Intelligence & Computing*
-
-Launched by the President of Pakistan to promote education, research, and business opportunities in:
-- 🤖 Artificial Intelligence
-- ⛓️ Blockchain
-- 📡 IoT
-- ☁️ Cloud Native Computing
-
-Led by **Sir Zia Khan** Volunteer COO of PIAIC, CEO of Panacloud, and a central force in building Pakistan's future-ready tech workforce.
-
-**What makes this different?** It doesn't just teach you to *use* AI tools. The mission is to train millions of **agentic AI developers** across Pakistan and abroad, and launch startups at scale.
-
-We're learning to build systems that **plan, coordinate tools, and take actions** to deliver outcomes — not just answers.
+Interested in the intersection of AI and finance? Feel free to explore, experiment, and collaborate. This lab is built on curiosity and continuous improvement.
 
 ---
 
+**Building the future of finance, one agent at a time.** 🧪✨
 ## 📚 What You'll Find Here
 
 | Section | Description |

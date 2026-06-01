@@ -27,7 +27,7 @@ Every day, add a new file with what you learned. Format: `TIL-YYYY-MM-DD.md`
 
 | Date | What I Learned |
 |------|----------------|
-| | |
+|01/06/2026 |Agent factory fundamentals|
 
 ---
 
